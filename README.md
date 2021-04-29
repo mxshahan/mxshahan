@@ -8,15 +8,28 @@
   <a href="https://reactjs.org" target="_blank" >
     <img src="https://image.flaticon.com/icons/png/512/1183/1183672.png"  height="90" />
   </a>
+  <a href="https://redux.js.org/" target="_blank" >
+    <img src="https://pagepro.co/blog/wp-content/uploads/2019/12/redux.png"  height="90" />
+  </a>
+  <a href="https://www.apollographql.com/" target="_blank" >
+    <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg"  height="90" />
+  </a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png"  height="90" />
+  </a>
  </p>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 📫 Databases ...
+<p float="left">
+  <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif"  height="90" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" >
+    <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"  height="90" />
+  </a>
+</p>
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!--
 **shahan953/shahan953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
