@@ -19,7 +19,7 @@
   </a>
  </p>
 
-- 📫 Databases ...
+### 📫 Databases ...
 <p float="left">
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif"  height="90" />
@@ -29,8 +29,11 @@
   </a>
 </p>
 
-- 📫 How to reach me: ...
 
+### 📫 How to reach me: ...
+
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/misbauddin/) 👨🏻‍💻 <br>
+  ⦿ Shoot Me an [Email](mailto:mx.shahan@gmail.com) 💌 <br>
 <!--
 **shahan953/shahan953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
