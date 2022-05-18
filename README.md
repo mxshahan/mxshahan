@@ -6,7 +6,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-3-1174937.png"  height="90" />
   </a>
   <a href="https://reactjs.org" target="_blank" >
-    <img src="https://image.flaticon.com/icons/png/512/1183/1183672.png"  height="90" />
+    <img src="[https://image.flaticon.com/icons/png/512/1183/1183672.png](https://reactjs.org/icons/icon-256x256.png?v=f4d46f030265b4c48a05c999b8d93791)"  height="90" />
   </a>
   <a href="https://redux.js.org/" target="_blank" >
     <img src="https://pagepro.co/blog/wp-content/uploads/2019/12/redux.png"  height="90" />
