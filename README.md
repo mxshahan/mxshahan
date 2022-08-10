@@ -34,6 +34,7 @@
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/misbauddin/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:mx.shahan@gmail.com) 💌 <br>
+  ⦿ Fire an WhatsApp Message an [WhatsApp](https://wa.me/+8801625122564) 💌 <br>
 <!--
 **shahan953/shahan953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
