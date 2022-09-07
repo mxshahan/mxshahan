@@ -95,4 +95,9 @@ Here are some ideas to get you started:
   <a href="https://play.google.com/store/apps/details?id=tech.kargo.shipper&hl=en&gl=US">
   <img src="https://play-lh.googleusercontent.com/5yREO7gGT4AsXENtKWaMd0RdyJ0AJBkMyGNVfpZ_ew2NFKY1jnFlnzm2fXNxmLlakA=w5120-h2880-rw" height="90"/>
   </a>
+  
+  <a href="https://apps.apple.com/us/app/bridal-network/id1571868476?platform=iphone">
+  <img height="90" alt="image" src="https://user-images.githubusercontent.com/28594271/188824205-76ba131a-22fa-4ab8-86cd-bd2abf734a29.png">
+  </a>
+  
 </p>
