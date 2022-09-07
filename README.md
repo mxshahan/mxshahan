@@ -54,6 +54,10 @@ Here are some ideas to get you started:
 #### 📫 Some of my work
 <h1>Web Application</h1>
 <p float="left">
+<a href="https://freight.kargo.tech/" target="_blank" >
+<img src="https://user-images.githubusercontent.com/28594271/188825351-ae6144d3-8b3e-4c5e-a981-20d25b8d0932.png" height="90"/>
+</a>
+
   <a href="https://www.fiverr.com/share/qqmVxX" target="_blank" >
   <img src="https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ff77792dcf675fdbe6200f4b897b2182-1568108556/screenshot_1/develop-web-based-nodejs-application.png"  height="90" />
 </a>
@@ -92,11 +96,11 @@ Here are some ideas to get you started:
   <img src="https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/867266505aeeccbc8a76a7d7ffcce3d8-1590172386/pwa/develop-web-based-nodejs-application.png"  height="90" />
   </a>
   
-  <a href="https://play.google.com/store/apps/details?id=tech.kargo.shipper&hl=en&gl=US">
+  <a href="https://play.google.com/store/apps/details?id=tech.kargo.shipper&hl=en&gl=US" target="_blank">
   <img src="https://play-lh.googleusercontent.com/5yREO7gGT4AsXENtKWaMd0RdyJ0AJBkMyGNVfpZ_ew2NFKY1jnFlnzm2fXNxmLlakA=w5120-h2880-rw" height="90"/>
   </a>
   
-  <a href="https://apps.apple.com/us/app/bridal-network/id1571868476?platform=iphone">
+  <a href="https://apps.apple.com/us/app/bridal-network/id1571868476?platform=iphone" target="_blank">
   <img height="90" alt="image" src="https://user-images.githubusercontent.com/28594271/188824205-76ba131a-22fa-4ab8-86cd-bd2abf734a29.png">
   </a>
   
