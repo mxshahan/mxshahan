@@ -30,7 +30,7 @@
 
     <a href="https://www.postgresql.org/" target="_blank" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png"  height="90" />
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-zoupl&psig=AOvVaw2p-vUjnIdbllmDQdPhtKxy&ust=1698585614934000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNCVhtPqmIIDFQAAAAAdAAAAABAP" height="90"/>
+
   </a>
 
   
