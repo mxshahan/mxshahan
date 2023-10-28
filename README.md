@@ -36,7 +36,7 @@
 
 ### 📫 How to reach me: ...
 
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/misbauddin/) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/mxshahan/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:mx.shahan@gmail.com) 💌 <br>
   ⦿ Fire an WhatsApp Message an [WhatsApp](https://wa.me/+8801625122564) 💌 <br>
 <!--
