@@ -14,7 +14,7 @@ I excel in:
 - **Containerization and Orchestration:** Docker and Kubernetes for seamless deployment and scaling.
 - **Messaging Systems:** Implementing robust communication with RabbitMQ.
 - **Caching Solutions:** Utilizing Redis for fast and efficient data caching.
-- **Mobile Application Development:** Creating cross-platform mobile apps with React Native.
+- **Mobile Application Development:** Creating cross-platform mobile apps with React Native, Flutter
 
 ## 📫 Tech Stack
 
