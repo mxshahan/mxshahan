@@ -31,9 +31,83 @@ I excel in:
   <a href="https://www.apollographql.com/" target="_blank" >
     <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg"  height="50" />
   </a>
+  
+  <a href="https://graphql.org/" target="_blank" >
+    <img src="https://graphql.org/img/logo.svg"  height="50" />
+  </a>
+
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png"  height="50" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"  height="50" />
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1280px-Tailwind_CSS_logo.svg.png"  height="50" />
+  </a>
+
+  <a href="https://vuejs.org/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png"  height="50" />
+  </a>
+
+
+  <a href="https://angular.io/" target="_blank" >
+    <img src="https://www.mag-corp.com/wp-content/uploads/2021/08/angular.png"  height="50" />
+  </a>
+
+  <a href="https://www.djangoproject.com/" target="_blank" >
+    <img src="https://inspector.dev/wp-content/uploads/2023/04/logo-python-django.png"  height="50" />
+  </a>
+
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png"
+      alt="express"
+      height="50"
+    />
+  </a>
+
+ 
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      alt="heroku"
+      height="50"
+    />
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+      alt="nginx"
+      height="50"
+    />
+  </a>
+
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://miro.medium.com/v2/resize:fit:720/0*oJDeShfY6_eG-_H4"
+      alt="amazon-ec2"
+      height="50"
+    />
+  </a>
+
+  <a href="https://digitalocean.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png"
+      alt="digital-ocean"
+      height="50"
+    />
+  </a>
+
   <a href="https://docs.nestjs.com/" target="_blank" >
     <img src="https://docs.nestjs.com/assets/logo-small.svg"  height="50" />
   </a>
@@ -61,7 +135,6 @@ I excel in:
   <a href="https://socket.io/" target="_blank" >
     <img src="https://socket.io/images/logo.svg"  height="50" />
   </a>
-  
 
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif"  height="50" />
@@ -73,6 +146,69 @@ I excel in:
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png"  height="50" />
   </a>
+</p>
+
+
+## 📫 Collaborative Tools
+
+<p float="left">
+ 
+
+  <a href="#" rel="noreferrer">
+    <img
+      src="https://ccdsupport.com/jira/images/atlassian-jira-logo-large.png"
+      alt="atlasian-jira"
+      height="50"
+    />
+  </a>
+
+  <a href="#" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/2560px-Atlassian_Confluence_2017_logo.svg.png"
+      alt="atlasian-confluence"
+      height="50"
+    />
+  </a>
+  <a href="#" rel="noreferrer" title="Microsoft Team">
+    <img
+      src="https://www.internetmatters.org/wp-content/uploads/2020/12/mt-big.png"
+      alt="microsoft-team"
+      height="50"
+    />
+  </a>
+
+  <a href="#" rel="noreferrer" title="Slack">
+    <img
+      src="https://play-lh.googleusercontent.com/mzJpTCsTW_FuR6YqOPaLHrSEVCSJuXzCljdxnCKhVZMcu6EESZBQTCHxMh8slVtnKqo"
+      alt="microsoft-team"
+      height="50"
+    />
+  </a>
+
+  <a href="#" rel="noreferrer" title="Discord">
+    <img
+      src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxsG72wAo9EWJR4yQWyJJaDb6rYcBtJvTvH3UoAS4JFNDaxGhmKNaMwgElLURlRFeVkLCjkfnXmWtINWZIrPGYq0-&format=source"
+      alt="microsoft-team"
+      height="50"
+    />
+  </a>
+
+  <a href="#" rel="noreferrer" title="Figma">
+    <img
+      src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png"
+      alt="microsoft-team"
+      height="50"
+    />
+  </a>
+
+  <a href="#" rel="noreferrer" title="Adobe XD">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/800px-Adobe_XD_CC_icon.svg.png"
+      alt="microsoft-team"
+      height="50"
+    />
+  </a>
+ 
 </p>
 
 ## 💻 More About Me
