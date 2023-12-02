@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+
+- ### 📫 My WOrking Stack ...
 <p float="left">
   <a href="https://nodejs.org/en/" target="_blank" >
     <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-3-1174937.png"  height="90" />
@@ -20,11 +22,35 @@
   <a href="https://docs.nestjs.com/" target="_blank" >
     <img src="https://docs.nestjs.com/assets/logo-small.svg"  height="90" />
   </a>
-  
- </p>
 
-### 📫 Databases ...
-<p float="left">
+  <a href="https://nextjs.org/" target="_blank" >
+    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png"  height="90" />
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"  height="90" />
+  </a>
+
+   <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png"  height="90" />
+  </a>
+
+   <a href="https://redis.io/" target="_blank" >
+    <img src="https://w7.pngwing.com/pngs/230/99/png-transparent-redis-original-wordmark-logo-icon.png"  height="90" />
+  </a>
+
+  <a href="https://www.rabbitmq.com/" target="_blank" >
+    <img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"  height="90" />
+  </a>
+  
+  <a href="https://socket.io/" target="_blank" >
+    <img src="https://socket.io/images/logo.svg"  height="90" />
+  </a>
+  
+  <a href="https://socket.io/" target="_blank" >
+    <img src="https://socket.io/images/logo.svg"  height="90" />
+  </a>
+  
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif"  height="90" />
   </a>
@@ -42,9 +68,9 @@
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/mxshahan/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:mx.shahan@gmail.com) 💌 <br>
-  ⦿ Fire an WhatsApp Message an [WhatsApp](https://wa.me/+8801625122564) 💌 <br>
+  ⦿ Fire an WhatsApp Message an [WhatsApp](https://wa.me/+8801752294542) 💌 <br>
 <!--
-**shahan953/shahan953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mxshahan/mxshahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
