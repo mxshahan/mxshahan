@@ -64,7 +64,7 @@ I excel in:
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
-      height="60"
+      height="50"
     />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -157,7 +157,7 @@ I excel in:
     <img
       src="https://ccdsupport.com/jira/images/atlassian-jira-logo-large.png"
       alt="atlasian-jira"
-      width="100"
+      height="50"
     />
   </a>
 
@@ -165,7 +165,7 @@ I excel in:
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/2560px-Atlassian_Confluence_2017_logo.svg.png"
       alt="atlasian-confluence"
-      width="100"
+      height="50"
     />
   </a>
   <a href="#" rel="noreferrer" title="Microsoft Team">
