@@ -80,14 +80,14 @@ I excel in:
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
       alt="heroku"
-      height="50"
+      width="100"
     />
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
       alt="nginx"
-      height="50"
+      width="100"
     />
   </a>
 
