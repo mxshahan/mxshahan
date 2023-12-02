@@ -40,7 +40,7 @@
   </a>
 
   <a href="https://www.rabbitmq.com/" target="_blank" >
-    <img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"  height="50" />
+    <img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"  height="30" />
   </a>
   
   <a href="https://socket.io/" target="_blank" >
