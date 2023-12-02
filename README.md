@@ -28,7 +28,7 @@
   </a>
 
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"  height="50" />
+    <img src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png"  height="50" />
   </a>
 
    <a href="https://kubernetes.io/" target="_blank" >
