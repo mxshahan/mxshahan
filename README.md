@@ -44,7 +44,7 @@ I excel in:
   </a>
 
   <a href="https://tailwindcss.com/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1280px-Tailwind_CSS_logo.svg.png"  height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1280px-Tailwind_CSS_logo.svg.png"  height="30" />
   </a>
 
   <a href="https://vuejs.org/" target="_blank" >
