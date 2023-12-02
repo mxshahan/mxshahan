@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...
 
 - ### 📫 My WOrking Stack ...
-<p float="left" style="display: flex; gap: 10">
+<p float="left" style="display: flex; gap: 10px">
   <a href="https://nodejs.org/en/" target="_blank" >
     <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-3-1174937.png"  height="50" />
   </a>
