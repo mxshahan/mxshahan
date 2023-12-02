@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Mxshahan, a results-driven software developer based in [Your Location]. I specialize in creating robust and scalable web applications, leveraging a powerful tech stack to bring ideas to life.
+Welcome to my GitHub profile! I'm Mxshahan, a results-driven software developer. I specialize in creating robust and scalable web applications, leveraging a powerful tech stack to bring ideas to life.
 
 ## 🚀 Stack Overview
 
@@ -16,7 +16,7 @@ I excel in:
 - **Caching Solutions:** Utilizing Redis for fast and efficient data caching.
 - **Mobile Application Development:** Creating cross-platform mobile apps with React Native.
 
-### 📫 MY WORKING STACK ...
+## 📫 Tech Stack
 
 <p float="left">
   <a href="https://nodejs.org/en/" target="_blank" >
