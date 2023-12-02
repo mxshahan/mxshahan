@@ -82,11 +82,16 @@ I excel in:
 - 🔧 Detail-oriented and committed to delivering high-quality, maintainable code.
 - 🎓 Holds a degree in [Your Degree] from [Your University].
 
-### 📫 How to reach me: ...
+## 📫 How to reach me?
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/mxshahan/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://www.twitter.com/shahan953/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:mx.shahan@gmail.com) 💌 <br>
   ⦿ Fire an WhatsApp Message an [WhatsApp](https://wa.me/+8801752294542) 💌 <br>
+  ⦿ Follow me on [Medium](https://medium.com/@shahan953) 💌 for tech article<br>
+  ⦿ Subscribe my [YouTube](https://www.youtube.com/@mxshahan) Channel to get tech video <br>
+  
+  
 <!--
 **mxshahan/mxshahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
