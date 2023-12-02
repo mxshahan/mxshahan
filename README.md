@@ -157,7 +157,7 @@ I excel in:
     <img
       src="https://ccdsupport.com/jira/images/atlassian-jira-logo-large.png"
       alt="atlasian-jira"
-      height="50"
+      height="30"
     />
   </a>
 
@@ -165,7 +165,7 @@ I excel in:
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/2560px-Atlassian_Confluence_2017_logo.svg.png"
       alt="atlasian-confluence"
-      height="50"
+      height="30"
     />
   </a>
   <a href="#" rel="noreferrer" title="Microsoft Team">
