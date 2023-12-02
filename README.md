@@ -60,11 +60,10 @@ I excel in:
     <img src="https://inspector.dev/wp-content/uploads/2023/04/logo-python-django.png"  height="50" />
   </a>
 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
-      width="60"
       height="60"
     />
   </a>
